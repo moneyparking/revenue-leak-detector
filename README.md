@@ -1,1 +1,3 @@
-# revenue-leak-detector
+# Revenue Leak Detector SaaS
+
+MVP v1
